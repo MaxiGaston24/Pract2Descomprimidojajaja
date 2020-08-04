@@ -1,0 +1,19 @@
+text-secondary = texto color gris
+table table-striped = tabla con bordes y tabla intercalada con registros de distintos colores
+border border-success = borde verde de la columna
+border-top-0 = borde de arriba 0
+border-left-0 = borde izquierdo 0
+border-right-0 = borde derecho 0
+form-control = borde de donde se ingresa datos de un formulario
+btn btn-primary = bonton azul
+col-form-label = una clase para la columna label del formulario
+col-sm-2 = ancho de una columna
+forms-text text-danger = texto del formulario rojo
+th:errorclass="'form-control alert-danger'" = error en una clase, el cuadro donde se tipea del formulario se pone rojo
+
+"messages.properties" = NotEmpty.Clase.Atributo = Mensaje
+"Email.cliente.email= La direccion de correo no es valida" = validacion del correo
+typeMismatch = Cuando el tipo de dato no coincide
+btn btn-primary btn-xs = Boton azul chico
+btn btn-success btn-xs = Boton verde chico
+onclick="return confirm('Mensaje');" = cuando haces click te devuelve un mensaje
